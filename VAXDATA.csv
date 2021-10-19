@@ -1,0 +1,141 @@
+location,date,vaccine,total_vaccinations,Country
+European Union,2021-10-01,Pfizer/BioNTech,400547685,European Union
+United States,2021-10-01,Pfizer/BioNTech,226714560,USA
+United States,2021-10-01,Moderna,151622624,USA
+Germany,2021-10-01,Pfizer/BioNTech,82531243,Germany
+France,2021-10-01,Pfizer/BioNTech,75851493,France
+European Union,2021-10-01,Oxford/AstraZeneca,67140493,European Union
+Italy,2021-10-01,Pfizer/BioNTech,60679056,Italy
+European Union,2021-10-01,Moderna,57232847,European Union
+Spain,2021-10-01,Pfizer/BioNTech,45761253,Spain
+South Korea,2021-10-01,Pfizer/BioNTech,33668681,South Korea
+Poland,2021-10-01,Pfizer/BioNTech,25670314,Poland
+South Korea,2021-10-01,Oxford/AstraZeneca,21525019,South Korea
+Chile,2021-10-01,Sinovac,20789353,Chile
+Netherlands,2021-10-01,Pfizer/BioNTech,16830205,Netherlands
+United States,2021-10-01,Johnson&Johnson,15022960,USA
+European Union,2021-10-01,Johnson&Johnson,14765709,European Union
+Germany,2021-10-01,Oxford/AstraZeneca,12693860,Germany
+Italy,2021-10-01,Oxford/AstraZeneca,12149289,Italy
+Belgium,2021-10-01,Pfizer/BioNTech,10907781,Belgium
+Italy,2021-10-01,Moderna,10717958,Italy
+France,2021-10-01,Moderna,10487444,France
+Sweden,2021-10-01,Pfizer/BioNTech,10279797,Sweden
+Czechia,2021-10-01,Pfizer/BioNTech,9789907,Czechia
+Spain,2021-10-01,Oxford/AstraZeneca,9776264,Spain
+Portugal,2021-10-01,Pfizer/BioNTech,9764460,Portugal
+Germany,2021-10-01,Moderna,9674793,Germany
+Spain,2021-10-01,Moderna,8288685,Spain
+South Korea,2021-10-01,Moderna,8089716,South Korea
+Romania,2021-10-01,Pfizer/BioNTech,7909195,Romania
+France,2021-10-01,Oxford/AstraZeneca,7790278,France
+Austria,2021-10-01,Pfizer/BioNTech,7534437,Austria
+Denmark,2021-10-01,Pfizer/BioNTech,7461796,Denmark
+Chile,2021-10-01,Pfizer/BioNTech,7302667,Chile
+Switzerland,2021-10-01,Moderna,6904264,Switzerland
+Finland,2021-10-01,Pfizer/BioNTech,5933282,Finland
+Norway,2021-10-01,Pfizer/BioNTech,5876148,Norway
+Hong Kong,2021-10-01,Pfizer/BioNTech,5540337,Hong Kong
+Poland,2021-10-01,Oxford/AstraZeneca,5280136,Poland
+Hungary,2021-10-01,Pfizer/BioNTech,4744215,Hungary
+Ireland,2021-10-01,Pfizer/BioNTech,4705308,Ireland
+Switzerland,2021-10-01,Pfizer/BioNTech,3577066,Switzerland
+Uruguay,2021-10-01,Sinovac,3245944,Uruguay
+Germany,2021-10-01,Johnson&Johnson,3198032,Germany
+Hong Kong,2021-10-01,Sinovac,3152002,Hong Kong
+Slovakia,2021-10-01,Pfizer/BioNTech,3138257,Slovakia
+Poland,2021-10-01,Moderna,3034338,Poland
+Belgium,2021-10-01,Oxford/AstraZeneca,2833030,Belgium
+Netherlands,2021-10-01,Oxford/AstraZeneca,2801018,Netherlands
+Croatia,2021-10-01,Pfizer/BioNTech,2449242,Croatia
+Portugal,2021-10-01,Oxford/AstraZeneca,2206409,Portugal
+Hungary,2021-10-01,Sinopharm/Beijing,2106695,Hungary
+European Union,2021-10-01,Sinopharm/Beijing,2106695,European Union
+Lithuania,2021-10-01,Pfizer/BioNTech,2092130,Lithuania
+Poland,2021-10-01,Johnson&Johnson,1999363,Poland
+Uruguay,2021-10-01,Pfizer/BioNTech,1975498,Uruguay
+Netherlands,2021-10-01,Moderna,1966697,Netherlands
+Spain,2021-10-01,Johnson&Johnson,1963835,Spain
+Portugal,2021-10-01,Moderna,1936016,Portugal
+European Union,2021-10-01,Sputnik V,1842782,European Union
+Hungary,2021-10-01,Sputnik V,1805110,Hungary
+Sweden,2021-10-01,Moderna,1710041,Sweden
+Austria,2021-10-01,Oxford/AstraZeneca,1596930,Austria
+Bulgaria,2021-10-01,Pfizer/BioNTech,1555083,Bulgaria
+Norway,2021-10-01,Moderna,1520464,Norway
+Italy,2021-10-01,Johnson&Johnson,1477277,Italy
+South Korea,2021-10-01,Johnson&Johnson,1446239,South Korea
+Belgium,2021-10-01,Moderna,1332351,Belgium
+Sweden,2021-10-01,Oxford/AstraZeneca,1329940,Sweden
+Slovenia,2021-10-01,Pfizer/BioNTech,1322494,Slovenia
+Hungary,2021-10-01,Oxford/AstraZeneca,1244840,Hungary
+Ireland,2021-10-01,Oxford/AstraZeneca,1189358,Ireland
+Denmark,2021-10-01,Moderna,1176757,Denmark
+Portugal,2021-10-01,Johnson&Johnson,1121787,Portugal
+France,2021-10-01,Johnson&Johnson,1042067,France
+Austria,2021-10-01,Moderna,1024938,Austria
+Latvia,2021-10-01,Pfizer/BioNTech,999514,Latvia
+Czechia,2021-10-01,Moderna,921461,Czechia
+Estonia,2021-10-01,Pfizer/BioNTech,914311,Estonia
+Czechia,2021-10-01,Oxford/AstraZeneca,881490,Czechia
+Romania,2021-10-01,Oxford/AstraZeneca,848157,Romania
+Slovakia,2021-10-01,Oxford/AstraZeneca,841037,Slovakia
+Netherlands,2021-10-01,Johnson&Johnson,828112,Netherlands
+Finland,2021-10-01,Moderna,819402,Finland
+Romania,2021-10-01,Johnson&Johnson,796578,Romania
+Cyprus,2021-10-01,Pfizer/BioNTech,755486,Cyprus
+Romania,2021-10-01,Moderna,741546,Romania
+Hungary,2021-10-01,Moderna,685922,Hungary
+Ireland,2021-10-01,Moderna,568645,Ireland
+Chile,2021-10-01,CanSino,567420,Chile
+Finland,2021-10-01,Oxford/AstraZeneca,553123,Finland
+Croatia,2021-10-01,Oxford/AstraZeneca,553112,Croatia
+Lithuania,2021-10-01,Oxford/AstraZeneca,533393,Lithuania
+Chile,2021-10-01,Oxford/AstraZeneca,510616,Chile
+Luxembourg,2021-10-01,Pfizer/BioNTech,508127,Luxembourg
+Slovakia,2021-10-01,Moderna,481586,Slovakia
+Bulgaria,2021-10-01,Oxford/AstraZeneca,478260,Bulgaria
+Malta,2021-10-01,Pfizer/BioNTech,459299,Malta
+Belgium,2021-10-01,Johnson&Johnson,377275,Belgium
+Croatia,2021-10-01,Moderna,327556,Croatia
+Iceland,2021-10-01,Pfizer/BioNTech,324548,Iceland
+Slovenia,2021-10-01,Oxford/AstraZeneca,321480,Slovenia
+Austria,2021-10-01,Johnson&Johnson,311668,Austria
+Bulgaria,2021-10-01,Moderna,301960,Bulgaria
+Latvia,2021-10-01,Oxford/AstraZeneca,263429,Latvia
+Lithuania,2021-10-01,Moderna,262660,Lithuania
+Cyprus,2021-10-01,Oxford/AstraZeneca,253947,Cyprus
+Latvia,2021-10-01,Moderna,246637,Latvia
+Czechia,2021-10-01,Johnson&Johnson,236701,Czechia
+Estonia,2021-10-01,Oxford/AstraZeneca,236265,Estonia
+Ireland,2021-10-01,Johnson&Johnson,235618,Ireland
+Malta,2021-10-01,Oxford/AstraZeneca,225251,Malta
+Lithuania,2021-10-01,Johnson&Johnson,197964,Lithuania
+Bulgaria,2021-10-01,Johnson&Johnson,195779,Bulgaria
+Slovenia,2021-10-01,Moderna,187497,Slovenia
+Denmark,2021-10-01,Oxford/AstraZeneca,154907,Denmark
+Hungary,2021-10-01,Johnson&Johnson,153817,Hungary
+Norway,2021-10-01,Oxford/AstraZeneca,145515,Norway
+Estonia,2021-10-01,Moderna,139333,Estonia
+Latvia,2021-10-01,Johnson&Johnson,136981,Latvia
+Slovenia,2021-10-01,Johnson&Johnson,121267,Slovenia
+Iceland,2021-10-01,Oxford/AstraZeneca,115479,Iceland
+Luxembourg,2021-10-01,Oxford/AstraZeneca,105290,Luxembourg
+Croatia,2021-10-01,Johnson&Johnson,97048,Croatia
+Uruguay,2021-10-01,Oxford/AstraZeneca,86603,Uruguay
+Slovakia,2021-10-01,Johnson&Johnson,86042,Slovakia
+Cyprus,2021-10-01,Moderna,85831,Cyprus
+Luxembourg,2021-10-01,Moderna,69853,Luxembourg
+Iceland,2021-10-01,Moderna,62528,Iceland
+Iceland,2021-10-01,Johnson&Johnson,53874,Iceland
+Estonia,2021-10-01,Johnson&Johnson,51224,Estonia
+Denmark,2021-10-01,Johnson&Johnson,48330,Denmark
+Malta,2021-10-01,Moderna,42940,Malta
+Luxembourg,2021-10-01,Johnson&Johnson,37543,Luxembourg
+Liechtenstein,2021-10-01,Moderna,30928,Liechtenstein
+Malta,2021-10-01,Johnson&Johnson,30697,Malta
+Cyprus,2021-10-01,Johnson&Johnson,20704,Cyprus
+Liechtenstein,2021-10-01,Pfizer/BioNTech,13705,Liechtenstein
+Norway,2021-10-01,Johnson&Johnson,5076,Norway
+Finland,2021-10-01,Johnson&Johnson,0,Finland
+Switzerland,2021-10-01,Johnson&Johnson,0,Switzerland
